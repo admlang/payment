@@ -1,0 +1,11 @@
+// PayPal REST API, webhooks and IPN
+@manifest(version = "0.0.1")
+library adm.payment.paypal {
+	use (
+		adm.payment.paypal
+	)
+
+	export (
+		adm.payment.paypal
+	)
+}

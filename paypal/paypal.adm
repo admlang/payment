@@ -1,0 +1,3 @@
+partial module adm.payment.paypal {
+	// PayPal over std.net.http: OAuth2 client credentials, orders and payments v2, subscriptions, payouts, refunds, disputes; webhook signature verification and typed events; IPN message verification for older integrations
+}

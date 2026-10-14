@@ -1,0 +1,3 @@
+partial module adm.payment.stripe {
+	// Stripe over std.net.http: typed objects and methods (customers, payment intents, checkout sessions, subscriptions, invoices, products and prices, refunds, payouts, balance), idempotency keys, API version pinning, pagination, expand; webhook signature verification and typed events; Connect accounts
+}

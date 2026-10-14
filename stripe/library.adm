@@ -1,0 +1,11 @@
+// Stripe API and webhooks
+@manifest(version = "0.0.1")
+library adm.payment.stripe {
+	use (
+		adm.payment.stripe
+	)
+
+	export (
+		adm.payment.stripe
+	)
+}
